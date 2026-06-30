@@ -2,7 +2,7 @@
 
 A fast-paced highway driving game developed in Unity. Dodge traffic, survive as long as possible, and beat your high score!
 
-*(Drag and drop a screenshot or GIF of your gameplay right here!)*
+
 
 ## 🎮 Tech Stack
 
