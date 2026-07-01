@@ -2,8 +2,6 @@
 
 A fast-paced highway driving game developed in Unity. Dodge traffic, survive as long as possible, and beat your high score!
 
-
-
 ## 🎮 Tech Stack
 
 * **Game Engine:** ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
