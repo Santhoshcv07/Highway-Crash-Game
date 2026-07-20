@@ -114,11 +114,7 @@ Highway-Crash-Game/
 
 ## 🔮 Future Scope & Use Cases
 
-### Upcoming Features
-- **Global Leaderboards:** Implement an online leaderboard using Firebase or PlayFab.
-- **Power-ups & Collectibles:** Add nitro boosts, coin magnets, and extra lives.
-- **Mobile Support:** Add touch controls and gyroscope steering for Android/iOS builds.
-- **Night Mode / Weather:** Dynamic day/night cycles and rain/snow effects for added challenge.
+
 
 ### Use Cases
 - **Casual Gaming:** A fun, quick-session game for browser or mobile.
