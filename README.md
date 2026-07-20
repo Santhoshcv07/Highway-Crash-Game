@@ -128,13 +128,7 @@ Highway-Crash-Game/
 
 ## 🤝 Contribution
 
-Contributions are always welcome! If you'd like to improve the game, follow these steps:
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-car-model`
-3. Commit your changes: `git commit -m 'Add new sports car'`
-4. Push to the branch: `git push origin feature/new-car-model`
-5. Open a Pull Request!
 
 ---
 
