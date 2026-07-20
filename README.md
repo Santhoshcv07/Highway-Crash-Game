@@ -85,6 +85,9 @@ Highway-Crash-Game/
 ---
 
 ## 🚀 Setup & Deployment
+### Prerequisites
+- **Unity Hub** & **Unity Editor** (Recommended version: 2022.3 LTS or newer)
+- **Git**
 
 
 ### Running the Game Locally
