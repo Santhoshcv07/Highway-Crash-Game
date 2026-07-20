@@ -119,9 +119,7 @@ Highway-Crash-Game/
 - **Mobile Support:** Add touch controls and gyroscope steering for Android/iOS builds.
 - **Night Mode / Weather:** Dynamic day/night cycles and rain/snow effects for added challenge.
 
-### Use Cases
-- **Casual Gaming:** A fun, quick-session game for browser or mobile.
-- **Portfolio Project:** Demonstrates proficiency in Unity C# scripting, object pooling, procedural generation, and UI management.
+
 
 ---
 
